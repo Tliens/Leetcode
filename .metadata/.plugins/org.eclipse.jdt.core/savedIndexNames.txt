@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/quinn/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+1841135386.index
+1865797976.index
+729939536.index
